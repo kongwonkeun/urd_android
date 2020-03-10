@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">URBTerm</string>
+    <string name="action_setting">Setting</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">List Fragment</string>
+    <string name="term_fragment_label">Term Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="list_header">Bluetooth Devices</string>
+
+</resources>
